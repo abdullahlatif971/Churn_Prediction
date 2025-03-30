@@ -90,7 +90,8 @@ Future Improvements
 * Automate Predictions by deploying the model as a web app using Flask or FastAPI.
 
 Author 
-Harris Hussain harrishussain2408@gmail.com
+Abdullah Latif 
+abdullahlatif971@gmail.com
 
 License
 This project is open-source under MIT License.
